@@ -7,8 +7,8 @@ It should be noted that there are some differences in loss, such as replacing th
 
 ## Links
 * [TensorFlow version for deploying](https://github.com/592692070/FingerNet) This is the original version we have referred to.
-* [Pytorch version for deploying](https://github.com/DasNachtlied/FingerNet_pytorch_deploy) This is a replicated version in pytorch for deploying.
-* [Pytorch version for training](https://github.com/DasNachtlied/FingerNet_pytorch_train) This is a replicated version in pytorch for training.
+* [Pytorch version for deploying](https://github.com/DasNachtlied/FingerNet_pytorch_deploy) This is our replicated version in pytorch for deploying.
+* [Pytorch version for training](https://github.com/DasNachtlied/FingerNet_pytorch_train) This is our replicated version in pytorch for training.
 
 ## Introduction
 FingerNet is an multi-task CNN for extracting fingerprint orientation field, segmentation, enhenced fingerprint and minutiae.
