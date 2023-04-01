@@ -11,7 +11,7 @@ It should be noted that there are some differences in loss functions, such as re
 * [Pytorch version for training](https://github.com/DasNachtlied/FingerNet_pytorch_train) This is our replicated version in pytorch for training.
 
 ## Introduction
-FingerNet is an multi-task CNN for extracting fingerprint orientation field, segmentation, enhanced fingerprint and minutiae.
+FingerNet is a multi-task CNN for extracting fingerprint orientation field, segmentation, enhanced fingerprint and minutiae.
 
 ## Usage
 * Run `main.py` for training.
