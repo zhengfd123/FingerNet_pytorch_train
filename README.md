@@ -2,8 +2,8 @@
 By Yao Tang, Fei Gao, JuFu Feng and YuHang Liu at Peking University
 
 
-This is a `replicated version in pytorch`, for `training`.<br>
-It should be noted that there are some differences in loss, such as replacing the original weighted BCE loss with focal loss.
+This is a `replicated version in pytorch` for `training`.<br>
+It should be noted that there are some differences in loss functions, such as replacing the original weighted BCE loss with focal loss.
 
 ## Links
 * [TensorFlow version for deploying](https://github.com/592692070/FingerNet) This is the original version we have referred to.
